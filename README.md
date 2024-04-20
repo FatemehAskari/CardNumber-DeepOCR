@@ -19,6 +19,8 @@ You can see the details of how this dataset was constructed in the [folder](Crea
 
 ![Prediction](Assets/Example_CTCloss_Prediction.png)
 
+You can use this [model](Model_Save/nationalcardocr.h5)
+
 ## Model
 
 ## How to run
