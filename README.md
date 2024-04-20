@@ -30,15 +30,15 @@ You can use this [model](Model_Save/nationalcardocr.h5)
 
 2. Applying dilate and Canny
 
-![dilate and Canny](Assets/dilate%20and%20Canny.jpg)
+<!-- ![dilate and Canny](Assets/dilate%20and%20Canny.jpg) -->
 
 3. Obtaining Contours
 
-![Contours](Assets/Contours.jpg)
+<!-- ![Contours](Assets/Contours.jpg) -->
 
 4. Applying Perspective Transformation
 
-![Transformation](Assets/Transformation.jpg)
+<!-- ![Transformation](Assets/Transformation.jpg) -->
 
 ### Detecting the type of card (National ID or Bank card)
 
