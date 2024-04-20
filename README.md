@@ -26,7 +26,7 @@ You can use this [model](Model_Save/nationalcardocr.h5)
 
 1. Applying bilateralFilter and adaptiveThreshold
 
-![bilateralFilter and adaptiveThreshold](Assets/bilateralFilter%20and%20adaptiveThreshold.jpg)
+<!-- ![bilateralFilter and adaptiveThreshold](Assets/bilateralFilter%20and%20adaptiveThreshold.jpg) -->
 
 2. Applying dilate and Canny
 
