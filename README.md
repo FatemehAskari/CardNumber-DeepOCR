@@ -3,7 +3,11 @@
 Deep Optical Character Recognition (OCR) for Iranian Credit Cards and National ID Cards using Keras.
 
 ## Table of Contents
-
+1. [Dataset](#dataset)
+2. [Examples of model predictions](#Examples-of-model-predictions)
+3. [Model](#model)
+4. [How to run](#how-to-run)
+5. [Results](#results)
 
 ## Dataset
 For the main model, we did not generate data, but for one of the approaches we explored, which involved using the CTC loss, we decided to generate 10,000 data samples.
