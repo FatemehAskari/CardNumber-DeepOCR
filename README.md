@@ -49,7 +49,19 @@ You can use this [model](Model_Save/nationalcardocr.h5)
 
 ## How to run
 
+For testing open ```CV_Project2_OCR.ipynb``` in Final_Solution folder inside Google Colab
+
+### API's:
+
+In the "CV_Project2_OCR.ipynb" notebook, a "predict" function has been implemented in the final section, which you can use
+```bash
+predict(pathTemplate,pathimage)
+```
 ## Results
+
+Credit cards            |  National cards
+:-------------------------:|:-------------------------:
+![Result-Credit](Assets/Cardbank_Predict.png)  |  ![Result-National](Assets/national1_Predict.png)
 
 
 
